@@ -4,6 +4,7 @@ Error en la sentencia for
 
 package quiz02;
 
+
 public class ejercicio01 {
 
 	public static void main(String[] args) {
