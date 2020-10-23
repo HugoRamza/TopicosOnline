@@ -21,7 +21,6 @@ public class BarraProgresoFor extends JFrame {
 
      ventana.add(panel);
      ventana.setBounds(500, 400, 500, 200);
-     //ventana.setSize(500,200);
      ventana.setVisible(true);
 
 

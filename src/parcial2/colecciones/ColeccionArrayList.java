@@ -16,6 +16,12 @@ public class ColeccionArrayList {
         varLista.add("Eduardo");
         varLista.add("Gabriela");
 
+//        boolean varResult;
+//        varResult = varLista.contains("Itzamara");
+
+
+
+
         //Recorriendo la lista usando un iterador
         //---------------------------------------
         System.out.println("Iterando con un iterador:");
