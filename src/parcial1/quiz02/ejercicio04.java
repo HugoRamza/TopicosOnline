@@ -2,7 +2,7 @@
  * RunTime Error array fuera de índice
  */
 
-package quiz02;
+package parcial1.quiz02;
 
 public class ejercicio04 {
 

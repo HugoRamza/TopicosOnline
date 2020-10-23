@@ -2,7 +2,7 @@
 Error en la sentencia if 
 */
 
-package quiz02;
+package parcial1.quiz02;
 
 public class ejercicio02 {
 	public static void main(String[] args) {

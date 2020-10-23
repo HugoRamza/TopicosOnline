@@ -1,4 +1,4 @@
-package guibasicas;
+package parcial1.guibasicas;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;

@@ -1,8 +1,10 @@
+## Contenido de la carpeta src:
 
-| Carpeta     | Descripción                                            |
-|-------------|--------------------------------------------------------|
-| coleciones  | Ejemplos de uso de colecciones                         |
-| examen02    | Preguntas de codigo del primer parcial (Examen 1)      |
-| examen01    | Preguntas de codigo del primer parcial (Examen 2)      |
-| gui basicas | Ejemplos de interfaces de usuario en swing             |
-| quiz02      | Segundo Quiz del primer parcial                        |
+| Carpeta                     | Contenido                                              |
+|-----------------------------|--------------------------------------------------------|
+| `/src/parcial1/examen01`    | Preguntas de código del primer parcial (Examen 1)      |
+| `/src/parcial1/examen02`    | Preguntas de código del primer parcial (Examen 2)      |
+| `/src/parcial1/guibasicas`  | Ejemplos de interfaces de usuario en swing             |
+| `/src/parcial1/quiz02`      | Segundo quiz del primer parcial                        |
+| `/src/parcial2/coleciones`  | Ejemplos de uso de colecciones                         |
+| `/src/parcial2/hilos`       | Ejemplos de uso de hilos                               |

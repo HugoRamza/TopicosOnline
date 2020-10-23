@@ -1,4 +1,4 @@
-package guibasicas;
+package parcial1.guibasicas;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;

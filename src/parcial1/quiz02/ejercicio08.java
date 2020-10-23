@@ -2,7 +2,7 @@
  Error en la declaracion de variables
  */
 
-package quiz02;
+package parcial1.quiz02;
 
 public class ejercicio08 {
 

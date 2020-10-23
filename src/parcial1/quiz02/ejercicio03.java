@@ -2,7 +2,7 @@
  * Programa correcto
  */
 
-package quiz02;
+package parcial1.quiz02;
 
 public class ejercicio03 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package colecciones;
+package parcial2.colecciones;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package examen02;
+package parcial1.examen02;
 
 public class Ejercicio_05 {
 
