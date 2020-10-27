@@ -1,4 +1,4 @@
-package parcial2.barraprog;
+package parcial1.guibasicas;
 
 import javax.swing.*;
 

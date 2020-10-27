@@ -19,18 +19,12 @@ class EjecutaHiloRunnable {
 
             try {
 
-            Thread.sleep(200);   //Llamadas a sleep deben estar en un try-catch
+            Thread.sleep(1000);   //Llamadas a sleep deben estar en un try-catch
 
             } catch (InterruptedException exc){
                 System.out.println("Hilo main (INTERRUPCION)");
             }
         }
-
-       try {
-           varHilo.join();
-       } catch (InterruptedException exc){
-           System.out.println("Junta los hilos");
-       }
 
 
         System.out.println("Hilo main (FINAL)");

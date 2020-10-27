@@ -17,7 +17,7 @@ public void run() {                 // que es el punto de entrada del hilo, ("co
       try {
 
           for (int x=0; x<=10; x++){
-              Thread.sleep(1000);      //Simulamos un "proceso" introduciendo una demora
+              Thread.sleep(2000);      //Simulamos un "proceso" introduciendo una demora
                                        //Las llamadas al método sleep deben estar dentro
                                        //de un bloque try-cyatch
 

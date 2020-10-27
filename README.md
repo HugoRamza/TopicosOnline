@@ -8,3 +8,4 @@
 | `/src/parcial1/quiz02`      | Segundo quiz del primer parcial                        |
 | `/src/parcial2/coleciones`  | Ejemplos de uso de colecciones                         |
 | `/src/parcial2/hilos`       | Ejemplos de uso de hilos                               |
+| `/src/parcial2/hilosrandom` | Ejemplos de uso de hilos                               |
