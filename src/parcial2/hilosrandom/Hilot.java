@@ -11,6 +11,8 @@ public class Hilot extends Thread {
     public void run ( ) {
         try {
             for (int x=1; x<=10; x++) {
+
+                // Espera un lapso de tiempo aleatorio
                 int espera = (int)(Math.random()*5000);
                 System.out.println(nombre + " " +  x + " " + espera);
                 Thread.sleep(espera);

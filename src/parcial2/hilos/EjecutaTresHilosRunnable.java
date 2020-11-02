@@ -1,6 +1,6 @@
 package parcial2.hilos;
 
-public class EjecutaTresHilos {
+public class EjecutaTresHilosRunnable {
 
     public static void main(String[] args) {
         System.out.println("Hilo main (INICIO)");

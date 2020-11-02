@@ -11,6 +11,8 @@ public class Hilor implements Runnable {
     public void run() {
         try {
             for (int x=1; x<=10; x++) {
+
+                //espera un lapso de tiempo aleatorio
                 int espera = (int)(Math.random()*2000);
                 System.out.println(nombre + " " +  x + " " + espera);
                 Thread.sleep(espera);
